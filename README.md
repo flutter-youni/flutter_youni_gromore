@@ -24,11 +24,11 @@
 
 1、老版本会面临被下架的风险，老版本的穿上甲版本有过度获取隐私位置隐私的问题。
 
-<img src="/Users/ken/Desktop/WX20240415-162448@2x.png" alt="WX20240415-162448@2x" style="zoom:50%;" />
+<img src="https://github.com/flutter-youni/flutter_youni_gromore/blob/master/readme_image/162448.png" alt="WX20240415-162448@2x" style="zoom:50%;" />
 
 2、会提高收入，如果是大的活动，比如双11，gromore都会针对这个版本进行更新，新版本的cpm都会有10%的提升
 
-<img src="/Users/ken/Library/Application Support/typora-user-images/image-20240415164346708.png" alt="image-20240415164346708" style="zoom: 33%;" />
+<img src="https://github.com/flutter-youni/flutter_youni_gromore/blob/master/readme_image/64346708.png" alt="image-20240415164346708" style="zoom: 33%;" />
 
 ## 支持平台
 
