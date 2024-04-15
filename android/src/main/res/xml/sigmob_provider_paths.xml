@@ -1,0 +1,9 @@
+<paths>
+    <!-- 这个下载路径不可以修改，SigDownload -->
+    <external-cache-path
+        name="SigMob_root"
+        path="SigDownload" />
+    <external-path
+        name="SigMob_root_external"
+        path="." />
+</paths>
