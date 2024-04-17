@@ -1,7 +1,7 @@
 name: flutter_youni_gromore
-description: A new Flutter project.
-version: 1.0.0
-homepage:
+description: 穿山甲Gromore的Flutter插件（由你团队出品）
+version: 1.0.1
+homepage: https://github.com/flutter-youni/flutter_youni_gromore.git
 
 environment:
   sdk: ">=2.17.0 <3.0.0"
